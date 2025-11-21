@@ -1,6 +1,6 @@
 #pragma once
 
-#include <cstdint>
+#include "PacketForge/core/header_repository/command_type.hpp"
 
 enum class CommandType : uint32_t
 {

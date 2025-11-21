@@ -2,7 +2,7 @@
 
 #include <vector>
 #include <unordered_map>
-#include "../command_type.hpp"
+#include "command_type.hpp"
 
 class SerializerHeaderRepository
 {
