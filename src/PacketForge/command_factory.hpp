@@ -2,8 +2,6 @@
 
 #include "core/packet.hpp"
 #include "core/command_serializers.hpp"
-#include "core/header_repository/header_repository.hpp"
-#include "core/header_repository/command_type.hpp"
 
 #include <unordered_map>
 #include <functional>
